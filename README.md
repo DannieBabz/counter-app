@@ -1,3 +1,3 @@
 # counter-app
 
-This app increases a number and decreases a number by 1
+This app increases a number and decreases a number by 1.
